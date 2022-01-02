@@ -2,4 +2,4 @@
 
 
 ## Markdown & Git project link
-http://Raiska8.github.io/rsschool-cv/cv
+https://raiska8.github.io/rsschool-cv/cv
