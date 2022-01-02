@@ -38,18 +38,20 @@ __________________________________________________________
 - Stress managemnet
 
 __________________________________________________________
-## Code Examle:
-  buttonSend.addEventListener('click', () => {
-    const cartArray = localStorage.getItem('cart');
-    fetch('https://jsonplaceholder.typicode.com/posts', {
-      method: 'POST',
-      body: cartArray,
-    }).then(response => {
-      if (response.ok) {
-        resetCart();
-      }
-    }).catch(error => console.error(error));
-  });
+## Code Examle in CSS:
+  body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
 
 ___________________________________________________________
 ## Online courses:
