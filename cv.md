@@ -63,5 +63,5 @@ __________________________________________________________
 ## Languages:
 - Kyrgyz (native)
 - Russian (advanced)
-- English (upper-intermediate)
+- English (Pre-advanced)
 - German (basic)
